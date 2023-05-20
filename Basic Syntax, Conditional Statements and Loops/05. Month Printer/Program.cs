@@ -48,6 +48,9 @@ namespace MonthPrinter
                 case 12:
                     Console.WriteLine("December");
                     break;
+                default:
+                    Console.WriteLine("Error!");
+                    break;
             }
         }
     }
