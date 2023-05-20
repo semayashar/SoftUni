@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\bin\Debug\net6.0\04. Print and Sum.exe
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\bin\Debug\net6.0\04. Print and Sum.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\bin\Debug\net6.0\04. Print and Sum.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\bin\Debug\net6.0\04. Print and Sum.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\bin\Debug\net6.0\04. Print and Sum.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\refint\04. Print and Sum.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\04. Print and Sum.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\04. Print and Sum\obj\Debug\net6.0\ref\04. Print and Sum.dll

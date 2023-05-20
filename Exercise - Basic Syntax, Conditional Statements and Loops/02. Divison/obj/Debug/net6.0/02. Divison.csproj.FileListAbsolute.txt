@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\bin\Debug\net6.0\02. Divison.exe
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\bin\Debug\net6.0\02. Divison.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\bin\Debug\net6.0\02. Divison.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\bin\Debug\net6.0\02. Divison.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\bin\Debug\net6.0\02. Divison.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\refint\02. Divison.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\02. Divison.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\02. Divison\obj\Debug\net6.0\ref\02. Divison.dll

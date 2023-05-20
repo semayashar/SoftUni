@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\bin\Debug\net6.0\01. Ages.exe
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\bin\Debug\net6.0\01. Ages.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\bin\Debug\net6.0\01. Ages.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\bin\Debug\net6.0\01. Ages.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\bin\Debug\net6.0\01. Ages.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\refint\01. Ages.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\01. Ages.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\01. Ages\obj\Debug\net6.0\ref\01. Ages.dll

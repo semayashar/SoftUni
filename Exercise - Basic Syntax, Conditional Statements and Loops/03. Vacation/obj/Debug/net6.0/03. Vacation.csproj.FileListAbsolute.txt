@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\bin\Debug\net6.0\03. Vacation.exe
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\bin\Debug\net6.0\03. Vacation.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\bin\Debug\net6.0\03. Vacation.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\bin\Debug\net6.0\03. Vacation.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\bin\Debug\net6.0\03. Vacation.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\refint\03. Vacation.dll
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\03. Vacation.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Exercise - Basic Syntax, Conditional Statements and Loops\03. Vacation\obj\Debug\net6.0\ref\03. Vacation.dll
