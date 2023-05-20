@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.exe
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.dll
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.dll
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\refint\11. Multiplication Table 2.0.dll
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\11. Multiplication Table 2.0\obj\Debug\net6.0\ref\11. Multiplication Table 2.0.dll

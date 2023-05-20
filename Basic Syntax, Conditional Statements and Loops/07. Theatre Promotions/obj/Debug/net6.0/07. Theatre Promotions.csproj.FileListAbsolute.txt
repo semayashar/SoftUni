@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\net6.0\07. Theatre Promotions.exe
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\net6.0\07. Theatre Promotions.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\net6.0\07. Theatre Promotions.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\net6.0\07. Theatre Promotions.dll
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\bin\Debug\net6.0\07. Theatre Promotions.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.dll
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\refint\07. Theatre Promotions.dll
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\07. Theatre Promotions.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Basic Syntax, Conditional Statements and Loops\07. Theatre Promotions\obj\Debug\net6.0\ref\07. Theatre Promotions.dll
