@@ -1,0 +1,25 @@
+﻿  Project 9.cpp
+C:\SoftUni\C#\PF with C# - май 2023\C++ Excersises\Project 9\Project 9.cpp(42,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\SoftUni\C#\PF with C# - май 2023\C++ Excersises\Project 9\Project 9.cpp(50,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(172,54): warning C4244: 'initializing': conversion from 'int' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\SoftUni\C#\PF with C# - май 2023\C++ Excersises\Project 9\Project 9.cpp(43,44): message : see reference to function template instantiation 'std::pair<_Kty,_Ty>::pair<std::string&,int&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Kty=std::string,
+              _Ty=float,
+              _Other1=std::string &,
+              _Other2=int &
+          ]
+C:\SoftUni\C#\PF with C# - май 2023\C++ Excersises\Project 9\Project 9.cpp(43,16): message : see reference to function template instantiation 'std::pair<_Kty,_Ty>::pair<std::string&,int&,0>(_Other1,_Other2) noexcept(false)' being compiled
+          with
+          [
+              _Kty=std::string,
+              _Ty=float,
+              _Other1=std::string &,
+              _Other2=int &
+          ]
+  Project 9.vcxproj -> C:\SoftUni\C#\PF with C# - май 2023\C++ Excersises\x64\Debug\Project 9.exe
