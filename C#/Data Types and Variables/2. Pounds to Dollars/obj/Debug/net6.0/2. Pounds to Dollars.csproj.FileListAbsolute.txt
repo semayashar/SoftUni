@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.exe
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net6.0\2. Pounds to Dollars.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\refint\2. Pounds to Dollars.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\2. Pounds to Dollars.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net6.0\ref\2. Pounds to Dollars.dll

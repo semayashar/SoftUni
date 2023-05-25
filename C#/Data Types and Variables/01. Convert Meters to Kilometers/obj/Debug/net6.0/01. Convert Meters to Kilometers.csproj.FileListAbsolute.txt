@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.exe
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\bin\Debug\net6.0\01. Convert Meters to Kilometers.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\refint\01. Convert Meters to Kilometers.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\01. Convert Meters to Kilometers.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables\01. Convert Meters to Kilometers\obj\Debug\net6.0\ref\01. Convert Meters to Kilometers.dll
