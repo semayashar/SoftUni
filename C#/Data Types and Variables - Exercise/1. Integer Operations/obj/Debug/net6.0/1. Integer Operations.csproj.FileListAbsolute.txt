@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.exe
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net6.0\1. Integer Operations.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\refint\1. Integer Operations.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\1. Integer Operations.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net6.0\ref\1. Integer Operations.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.exe
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\bin\Debug\net6.0\2. Sum Digits.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\refint\2. Sum Digits.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\2. Sum Digits.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\2. Sum Digits\obj\Debug\net6.0\ref\2. Sum Digits.dll

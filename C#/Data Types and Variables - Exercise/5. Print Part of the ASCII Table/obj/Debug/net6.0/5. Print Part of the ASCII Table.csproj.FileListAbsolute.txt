@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.exe
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\bin\Debug\net6.0\5. Print Part of the ASCII Table.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\refint\5. Print Part of the ASCII Table.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\5. Print Part of the ASCII Table.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\5. Print Part of the ASCII Table\obj\Debug\net6.0\ref\5. Print Part of the ASCII Table.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.exe
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\bin\Debug\net6.0\4. Sum of Chars.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\refint\4. Sum of Chars.dll
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\4. Sum of Chars.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Data Types and Variables - Exercise\4. Sum of Chars\obj\Debug\net6.0\ref\4. Sum of Chars.dll
