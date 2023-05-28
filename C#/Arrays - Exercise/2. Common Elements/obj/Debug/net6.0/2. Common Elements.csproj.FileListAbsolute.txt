@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\bin\Debug\net6.0\2. Common Elements.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\refint\2. Common Elements.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\2. Common Elements.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\2. Common Elements\obj\Debug\net6.0\ref\2. Common Elements.dll

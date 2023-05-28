@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\bin\Debug\net6.0\1. Train.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\refint\1. Train.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\1. Train.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\1. Train\obj\Debug\net6.0\ref\1. Train.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\bin\Debug\net6.0\4. Array Rotation.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\bin\Debug\net6.0\4. Array Rotation.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\bin\Debug\net6.0\4. Array Rotation.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\bin\Debug\net6.0\4. Array Rotation.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\bin\Debug\net6.0\4. Array Rotation.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\refint\4. Array Rotation.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\4. Array Rotation.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\4. Array Rotation\obj\Debug\net6.0\ref\4. Array Rotation.dll

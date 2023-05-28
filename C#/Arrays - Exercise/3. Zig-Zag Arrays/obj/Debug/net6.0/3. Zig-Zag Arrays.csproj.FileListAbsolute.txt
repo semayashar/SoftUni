@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net6.0\3. Zig-Zag Arrays.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net6.0\3. Zig-Zag Arrays.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net6.0\3. Zig-Zag Arrays.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net6.0\3. Zig-Zag Arrays.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\bin\Debug\net6.0\3. Zig-Zag Arrays.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\refint\3. Zig-Zag Arrays.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\3. Zig-Zag Arrays.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\3. Zig-Zag Arrays\obj\Debug\net6.0\ref\3. Zig-Zag Arrays.dll

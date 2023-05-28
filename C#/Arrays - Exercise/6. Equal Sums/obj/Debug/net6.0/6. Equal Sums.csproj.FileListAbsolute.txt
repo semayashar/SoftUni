@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\bin\Debug\net6.0\6. Equal Sums.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\bin\Debug\net6.0\6. Equal Sums.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\bin\Debug\net6.0\6. Equal Sums.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\bin\Debug\net6.0\6. Equal Sums.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\bin\Debug\net6.0\6. Equal Sums.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\refint\6. Equal Sums.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\6. Equal Sums.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\6. Equal Sums\obj\Debug\net6.0\ref\6. Equal Sums.dll

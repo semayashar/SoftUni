@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\bin\Debug\net6.0\10. LadyBugs.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\refint\10. LadyBugs.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\10. LadyBugs.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Exercise\10. LadyBugs\obj\Debug\net6.0\ref\10. LadyBugs.dll
