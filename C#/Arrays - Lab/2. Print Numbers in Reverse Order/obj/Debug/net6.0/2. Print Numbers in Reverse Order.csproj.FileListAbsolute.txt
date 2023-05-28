@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\bin\Debug\net6.0\2. Print Numbers in Reverse Order.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\refint\2. Print Numbers in Reverse Order.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\2. Print Numbers in Reverse Order.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\2. Print Numbers in Reverse Order\obj\Debug\net6.0\ref\2. Print Numbers in Reverse Order.dll

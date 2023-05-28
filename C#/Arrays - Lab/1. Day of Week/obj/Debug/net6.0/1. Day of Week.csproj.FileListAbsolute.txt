@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\bin\Debug\net6.0\1. Day of Week.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\bin\Debug\net6.0\1. Day of Week.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\bin\Debug\net6.0\1. Day of Week.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\bin\Debug\net6.0\1. Day of Week.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\bin\Debug\net6.0\1. Day of Week.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\refint\1. Day of Week.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\1. Day of Week.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\1. Day of Week\obj\Debug\net6.0\ref\1. Day of Week.dll

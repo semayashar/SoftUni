@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\bin\Debug\net6.0\30. Rounding Numbers.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\bin\Debug\net6.0\30. Rounding Numbers.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\bin\Debug\net6.0\30. Rounding Numbers.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\bin\Debug\net6.0\30. Rounding Numbers.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\bin\Debug\net6.0\30. Rounding Numbers.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\refint\30. Rounding Numbers.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\30. Rounding Numbers.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\03. Rounding Numbers\obj\Debug\net6.0\ref\30. Rounding Numbers.dll

@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\Reading Array from a Single Line.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\Reading Array from a Single Line.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\Reading Array from a Single Line.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\Reading Array from a Single Line.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\bin\Debug\net6.0\Reading Array from a Single Line.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\refint\Reading Array from a Single Line.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\Reading Array from a Single Line.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\3. Rounding Numbers\obj\Debug\net6.0\ref\Reading Array from a Single Line.dll

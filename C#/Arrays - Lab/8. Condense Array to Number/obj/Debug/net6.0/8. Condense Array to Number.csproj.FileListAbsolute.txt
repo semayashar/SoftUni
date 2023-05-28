@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\bin\Debug\net6.0\8. Condense Array to Number.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\bin\Debug\net6.0\8. Condense Array to Number.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\bin\Debug\net6.0\8. Condense Array to Number.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\bin\Debug\net6.0\8. Condense Array to Number.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\bin\Debug\net6.0\8. Condense Array to Number.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\refint\8. Condense Array to Number.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\8. Condense Array to Number.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\8. Condense Array to Number\obj\Debug\net6.0\ref\8. Condense Array to Number.dll

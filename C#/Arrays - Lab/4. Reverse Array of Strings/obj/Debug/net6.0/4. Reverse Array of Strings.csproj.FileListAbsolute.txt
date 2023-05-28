@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\net6.0\4. Reverse Array of Strings.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\net6.0\4. Reverse Array of Strings.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\net6.0\4. Reverse Array of Strings.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\net6.0\4. Reverse Array of Strings.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\bin\Debug\net6.0\4. Reverse Array of Strings.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\refint\4. Reverse Array of Strings.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\4. Reverse Array of Strings.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\4. Reverse Array of Strings\obj\Debug\net6.0\ref\4. Reverse Array of Strings.dll

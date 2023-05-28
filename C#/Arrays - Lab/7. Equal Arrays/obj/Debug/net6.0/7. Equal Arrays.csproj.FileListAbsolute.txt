@@ -1,0 +1,15 @@
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.exe
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.deps.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.runtimeconfig.json
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\bin\Debug\net6.0\7. Equal Arrays.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.csproj.AssemblyReference.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.AssemblyInfoInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.AssemblyInfo.cs
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\refint\7. Equal Arrays.dll
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.pdb
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\7. Equal Arrays.genruntimeconfig.cache
+C:\SoftUni\C#\PF with C# - май 2023\Arrays - Lab\7. Equal Arrays\obj\Debug\net6.0\ref\7. Equal Arrays.dll
