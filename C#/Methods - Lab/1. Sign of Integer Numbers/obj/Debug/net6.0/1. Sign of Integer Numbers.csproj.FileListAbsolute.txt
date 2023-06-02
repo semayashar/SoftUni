@@ -1,0 +1,15 @@
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\bin\Debug\net6.0\1. Sign of Integer Numbers.exe
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\bin\Debug\net6.0\1. Sign of Integer Numbers.deps.json
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\bin\Debug\net6.0\1. Sign of Integer Numbers.runtimeconfig.json
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\bin\Debug\net6.0\1. Sign of Integer Numbers.dll
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\bin\Debug\net6.0\1. Sign of Integer Numbers.pdb
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.csproj.AssemblyReference.cache
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.AssemblyInfoInputs.cache
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.AssemblyInfo.cs
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.dll
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\refint\1. Sign of Integer Numbers.dll
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.pdb
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\1. Sign of Integer Numbers.genruntimeconfig.cache
+C:\GitHub\MyCodeLab\Methods - Lab\1. Sign of Integer Numbers\obj\Debug\net6.0\ref\1. Sign of Integer Numbers.dll

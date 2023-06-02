@@ -1,0 +1,15 @@
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\bin\Debug\net6.0\7. Repeat String.exe
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\bin\Debug\net6.0\7. Repeat String.deps.json
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\bin\Debug\net6.0\7. Repeat String.runtimeconfig.json
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\bin\Debug\net6.0\7. Repeat String.dll
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\bin\Debug\net6.0\7. Repeat String.pdb
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.csproj.AssemblyReference.cache
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.AssemblyInfoInputs.cache
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.AssemblyInfo.cs
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.csproj.CoreCompileInputs.cache
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.dll
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\refint\7. Repeat String.dll
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.pdb
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\7. Repeat String.genruntimeconfig.cache
+C:\GitHub\MyCodeLab\Methods - Lab\7. Repeat String\obj\Debug\net6.0\ref\7. Repeat String.dll

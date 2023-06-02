@@ -1,0 +1,15 @@
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\bin\Debug\net6.0\4. Printing Triangle.exe
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\bin\Debug\net6.0\4. Printing Triangle.deps.json
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\bin\Debug\net6.0\4. Printing Triangle.runtimeconfig.json
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\bin\Debug\net6.0\4. Printing Triangle.dll
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\bin\Debug\net6.0\4. Printing Triangle.pdb
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.csproj.AssemblyReference.cache
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.AssemblyInfoInputs.cache
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.AssemblyInfo.cs
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.dll
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\refint\4. Printing Triangle.dll
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.pdb
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\4. Printing Triangle.genruntimeconfig.cache
+C:\GitHub\MyCodeLab\Methods - Lab\4. Printing Triangle\obj\Debug\net6.0\ref\4. Printing Triangle.dll
