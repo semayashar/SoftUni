@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\bin\Debug\net6.0\2. Gauss' Trick.exe
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\bin\Debug\net6.0\2. Gauss' Trick.deps.json
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\bin\Debug\net6.0\2. Gauss' Trick.runtimeconfig.json
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\bin\Debug\net6.0\2. Gauss' Trick.dll
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\bin\Debug\net6.0\2. Gauss' Trick.pdb
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.AssemblyInfo.cs
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.dll
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\refint\2. Gauss' Trick.dll
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.pdb
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\2. Gauss' Trick.genruntimeconfig.cache
+C:\GitHub\SoftUni\C#\List - Lab\2. Gauss' Trick\obj\Debug\net6.0\ref\2. Gauss' Trick.dll
