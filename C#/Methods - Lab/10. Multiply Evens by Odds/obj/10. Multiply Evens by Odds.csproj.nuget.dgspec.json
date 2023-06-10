@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\MyCodeLab\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj": {}
+    "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\MyCodeLab\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj": {
+    "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\MyCodeLab\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj",
         "projectName": "10. Multiply Evens by Odds",
-        "projectPath": "C:\\GitHub\\MyCodeLab\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj",
         "packagesPath": "C:\\Users\\sema_\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\MyCodeLab\\Methods - Lab\\10. Multiply Evens by Odds\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\10. Multiply Evens by Odds\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

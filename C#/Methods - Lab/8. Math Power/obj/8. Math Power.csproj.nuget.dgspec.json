@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\MyCodeLab\\Methods - Lab\\8. Math Power\\8. Math Power.csproj": {}
+    "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\8. Math Power\\8. Math Power.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\MyCodeLab\\Methods - Lab\\8. Math Power\\8. Math Power.csproj": {
+    "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\8. Math Power\\8. Math Power.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\MyCodeLab\\Methods - Lab\\8. Math Power\\8. Math Power.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\8. Math Power\\8. Math Power.csproj",
         "projectName": "8. Math Power",
-        "projectPath": "C:\\GitHub\\MyCodeLab\\Methods - Lab\\8. Math Power\\8. Math Power.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\8. Math Power\\8. Math Power.csproj",
         "packagesPath": "C:\\Users\\sema_\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\MyCodeLab\\Methods - Lab\\8. Math Power\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni\\C#\\Methods - Lab\\8. Math Power\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

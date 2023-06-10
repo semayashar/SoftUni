@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\C#\\PF with C# - май 2023\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj": {}
+    "C:\\GitHub\\SoftUni\\C#\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\C#\\PF with C# - май 2023\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj": {
+    "C:\\GitHub\\SoftUni\\C#\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\C#\\PF with C# - май 2023\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni\\C#\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj",
         "projectName": "4. Sum of Chars",
-        "projectPath": "C:\\SoftUni\\C#\\PF with C# - май 2023\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj",
+        "projectPath": "C:\\GitHub\\SoftUni\\C#\\Data Types and Variables - Exercise\\4. Sum of Chars\\4. Sum of Chars.csproj",
         "packagesPath": "C:\\Users\\sema_\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\C#\\PF with C# - май 2023\\Data Types and Variables - Exercise\\4. Sum of Chars\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni\\C#\\Data Types and Variables - Exercise\\4. Sum of Chars\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },

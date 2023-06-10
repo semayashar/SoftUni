@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SoftUni\\C#\\PF with C# - май 2023\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj": {}
+    "C:\\GitHub\\SoftUni\\C#\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj": {}
   },
   "projects": {
-    "C:\\SoftUni\\C#\\PF with C# - май 2023\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj": {
+    "C:\\GitHub\\SoftUni\\C#\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SoftUni\\C#\\PF with C# - май 2023\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj",
+        "projectUniqueName": "C:\\GitHub\\SoftUni\\C#\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj",
         "projectName": "ME - 5. Longest Increasing Subsequence (LIS)",
-        "projectPath": "C:\\SoftUni\\C#\\PF with C# - май 2023\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj",
+        "projectPath": "C:\\GitHub\\SoftUni\\C#\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\ME - 5. Longest Increasing Subsequence (LIS).csproj",
         "packagesPath": "C:\\Users\\sema_\\.nuget\\packages\\",
-        "outputPath": "C:\\SoftUni\\C#\\PF with C# - май 2023\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\obj\\",
+        "outputPath": "C:\\GitHub\\SoftUni\\C#\\Arrays - Exercise\\ME - 5. Longest Increasing Subsequence (LIS)\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\sema_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
