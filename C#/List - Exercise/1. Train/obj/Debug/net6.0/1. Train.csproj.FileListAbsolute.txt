@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\bin\Debug\net6.0\1. Train.exe
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\bin\Debug\net6.0\1. Train.deps.json
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\bin\Debug\net6.0\1. Train.runtimeconfig.json
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\bin\Debug\net6.0\1. Train.dll
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\bin\Debug\net6.0\1. Train.pdb
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.AssemblyInfo.cs
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.dll
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\refint\1. Train.dll
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.pdb
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\1. Train.genruntimeconfig.cache
+C:\GitHub\SoftUni\C#\List - Exercise\1. Train\obj\Debug\net6.0\ref\1. Train.dll
