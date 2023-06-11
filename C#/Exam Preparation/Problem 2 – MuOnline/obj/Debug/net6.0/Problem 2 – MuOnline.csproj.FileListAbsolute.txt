@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\bin\Debug\net6.0\Problem 2 – MuOnline.exe
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\bin\Debug\net6.0\Problem 2 – MuOnline.deps.json
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\bin\Debug\net6.0\Problem 2 – MuOnline.runtimeconfig.json
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\bin\Debug\net6.0\Problem 2 – MuOnline.dll
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\bin\Debug\net6.0\Problem 2 – MuOnline.pdb
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.AssemblyInfo.cs
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.dll
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\refint\Problem 2 – MuOnline.dll
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.pdb
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\Problem 2 – MuOnline.genruntimeconfig.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 2 – MuOnline\obj\Debug\net6.0\ref\Problem 2 – MuOnline.dll

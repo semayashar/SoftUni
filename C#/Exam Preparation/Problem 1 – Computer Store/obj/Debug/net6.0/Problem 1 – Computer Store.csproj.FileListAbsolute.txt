@@ -1,0 +1,15 @@
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\bin\Debug\net6.0\Problem 1 – Computer Store.exe
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\bin\Debug\net6.0\Problem 1 – Computer Store.deps.json
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\bin\Debug\net6.0\Problem 1 – Computer Store.runtimeconfig.json
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\bin\Debug\net6.0\Problem 1 – Computer Store.dll
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\bin\Debug\net6.0\Problem 1 – Computer Store.pdb
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.csproj.AssemblyReference.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.AssemblyInfoInputs.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.AssemblyInfo.cs
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.csproj.CoreCompileInputs.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.dll
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\refint\Problem 1 – Computer Store.dll
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.pdb
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\Problem 1 – Computer Store.genruntimeconfig.cache
+C:\GitHub\SoftUni\C#\Exam Preparation\Problem 1 – Computer Store\obj\Debug\net6.0\ref\Problem 1 – Computer Store.dll
